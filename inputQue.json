@@ -1,0 +1,44 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "topic": "cs",
+        "statement": "this is a sample question",
+        "answers": [
+          1
+        ],
+        "options": [
+          "ab",
+          "dc",
+          "fg"
+        ]
+      },
+      {
+        "id": 2,
+        "topic": "cs",
+        "statement": "this is a sample question 2",
+        "answers": [
+          1,
+          3
+        ],
+        "options": [
+          "ab",
+          "dc",
+          "fg"
+        ]
+      },
+      {
+        "id": 3,
+        "topic": "db",
+        "statement": "this is a sample question 3",
+        "answers": [
+          2
+        ],
+        "options": [
+          "ab",
+          "dc",
+          "fg"
+        ]
+      }
+    ]
+  }
